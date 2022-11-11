@@ -1,0 +1,12 @@
+-Creation base de donnees(Etienne)
+-Donnees de test(Etienne)
+-Mamorona projet Github(Kenny)
+-Inviteo daoly tsika
+-Download postman(Kenny)
+-Download SpringBoot
+-Test initial de Postman(Miaraka)
+
+-Mamorona vue v_assurance_perime (mila apina statut perime le vue)
+-Mamorona Fonction checkVidange(idvehicule) {
+    atao ++ daholo ze tao @kilometrage de jerena raha mcheck 10, 20, 30
+}
